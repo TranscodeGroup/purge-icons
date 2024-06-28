@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-purge-icons",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -30,9 +30,9 @@
     "vite": ">=2"
   },
   "dependencies": {
-    "@purge-icons/core": "^0.10.0",
+    "@purge-icons/core": "^0.10.1",
     "@purge-icons/generated": "^0.10.0",
-    "rollup-plugin-purge-icons": "^0.10.0"
+    "rollup-plugin-purge-icons": "^0.10.1"
   },
   "devDependencies": {
     "esno": "^0.4.6",
