@@ -18,5 +18,5 @@ export default function createPlugin(options: PurgeIconsOptions = {}): Plugin {
   return {
     enforce: 'pre',
     ...createRollupPlugin(parsedOptions),
-  }
+  } as any
 }
