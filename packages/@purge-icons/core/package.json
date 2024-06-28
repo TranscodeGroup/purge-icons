@@ -1,12 +1,8 @@
 {
   "name": "@purge-icons/core",
-  "version": "0.10.2",
+  "version": "0.10.3",
   "main": "dist/index.js",
-  "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
-  "exports": {
-    "require": "./dist/index.js"
-  },
   "license": "MIT",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "repository": {
